@@ -1,4 +1,19 @@
 # PSP-Game-Life
+## Program from the course project on development technologies ported to PSP🎮
+
+### Pre-requisites:
+* pspsdk 0.15.0
+
+### Build and run
+1. Install SDK, you can download it from the link: https://disk.yandex.ru/d/JmQgM_w7eBCP5g.
+2. * In the "Search" bar search: System (Control Panel)
+   * Click the Advanced System Settings link.
+   * Click Environment Variables. In the Environment Variables section, select the PATH environment variable. Click Change.
+   * In the Modify System Variable window, click New and specify the variable value: "C:\pspspsdk\bin" Click OK. Close the other open windows by clicking OK.
+   * Run the command "psp-gcc" to test it
+3. Run the "make" command
+4. In the PPSSPP emulator, open the project folder<br/><br/><br/>
+
 ## Порт курсового проекта по технологиям разработки на PSP
 
 ### Предварительные требования:
